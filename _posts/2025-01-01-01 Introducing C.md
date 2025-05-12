@@ -1,6 +1,6 @@
 ---
 title: 1장 C 소개
-date: 2025-04-24
+date: 2025-01-01
 categories: [C]
 tags: [C]
 math: true
